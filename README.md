@@ -1,1 +1,1 @@
-My first readme
+Do Hard things
